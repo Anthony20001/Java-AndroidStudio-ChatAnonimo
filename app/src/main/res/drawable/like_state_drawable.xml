@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:drawable="@drawable/like_disable"/>
+    <item android:state_pressed="false" android:drawable="@drawable/like_enable" /> <!-- pressed -->
+    <!--<item android:state_pressed="true"
+        android:drawable="@drawable/bttn_orange_selected" /> -->
+    <!-- focused -->
+</selector>
